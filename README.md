@@ -41,6 +41,10 @@ int main() {
     return 0;
 }
 ```
+
+
+
+
 ## OUTPUT:
 ![Screenshot 2024-10-09 150756](https://github.com/user-attachments/assets/99e1f0f3-d55f-4dad-902a-e3691390479c)
 
